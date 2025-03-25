@@ -1,2 +1,2 @@
-# linlink
+# Linlink
 Linux port of Winlink
